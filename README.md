@@ -1,4 +1,4 @@
-# JetBrainsRiderPlugins
+# JetBrains Rider Plugins
 
 * [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
 * [.NET Core User Secrets](https://plugins.jetbrains.com/plugin/10183--net-core-user-secrets)
