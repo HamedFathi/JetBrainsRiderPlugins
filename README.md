@@ -1,3 +1,6 @@
+![rider](https://user-images.githubusercontent.com/8418700/141210978-ccb3c134-2c22-4c85-be67-ec85d8f7b28d.png)
+
+
 # JetBrains Rider Plugins
 
 * [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
